@@ -79,7 +79,7 @@ st.markdown(page_bg, unsafe_allow_html=True)
 st.title("🪐 INTERFACES MULTIMODALES")
 st.subheader("🎙️ CONTROL GALÁCTICO POR VOZ 🚀")
 
-image = Image.open('voice_ctrl.jpg')  # // imagen representativa del micrófono o control
+image = Image.open('20.jpeg')  # // imagen representativa del micrófono o control
 st.image(image, width=250)
 
 st.markdown("---")
